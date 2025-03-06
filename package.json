@@ -1,0 +1,12 @@
+{
+  "name": "urlshortener",
+  "version": "1.0.0",
+  "description": "It is an URL shortener i.e. it shortens the links as per your need.",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node --watch app.js",
+    "start": "node app.js"
+  },
+  "author": "Affan Khan",
+  "license": "ISC"
+}
